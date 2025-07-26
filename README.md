@@ -1,4 +1,4 @@
-## Running UI Tests and Generating Coverage Reports
+## Running XCTest Unit and UI Tests and Generating Coverage Reports
 
 This project includes a helper script, `run_tests_with_coverage.sh`, to automate running Xcode UI tests and generating coverage reports.
 
